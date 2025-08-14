@@ -143,7 +143,7 @@ except ImportError:
 1. Open `src/data_transform.ipynb` in VS Code
 2. Ensure your input data files are in the `data/` folder:
    - `transactionError_APM.csv`
-   - `transaction_APM.csv`
+   - `transaction_APM.csv` (Too Large to upload github, please prepare it in your local environment.)
 3. Run all cells in order (each cell depends on the previous one)
 
 **What this notebook does:**
@@ -197,7 +197,7 @@ The forecast output includes:
 
 - **Input Files**:
   - `transactionError_APM.csv`: Contains error transaction data
-  - `transaction_APM.csv`: Contains general transaction data
+  - `transaction_APM.csv`: Contains general transaction data (Too Large to upload github, please prepare it in your local environment.)
 
 - **Intermediate Files**:
   - `merged_transaction_data.csv`: Raw merged data
