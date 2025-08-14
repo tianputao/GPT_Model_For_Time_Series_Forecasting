@@ -1,0 +1,24 @@
+# Manulife Data Predictive Analysis - Python Dependencies
+# This file contains all the required packages for the project
+
+# Core data processing libraries
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Time series forecasting with TimeGPT
+nixtla>=0.5.0
+
+# Compression library (required by nixtla)
+zstandard>=0.21.0
+
+# Optional: For enhanced data analysis (uncomment if needed)
+# matplotlib>=3.7.0
+# seaborn>=0.12.0
+# plotly>=5.15.0
+
+# Optional: For development and testing (uncomment if needed)
+# pytest>=7.0.0
+# jupyter>=1.0.0
+# ipython>=8.0.0
+
+# Note: datetime is part of Python standard library and doesn't need to be installed
